@@ -2,5 +2,5 @@
 
 <@c.page>
 <h5>Hello, guest!</h5>
-    <div>This is just fckn shit shop!!!</div>
+    <div>This is just book shop!!!</div>
 </@c.page>
